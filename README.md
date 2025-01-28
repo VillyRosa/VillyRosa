@@ -11,7 +11,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">Sou um Desenvolvedor Full Stack, utilizando principalmente Angular e Spring Boot para criação apps SPA's que se comunicam com API's rest.</p>
+<p align="left">Sou um Desenvolvedor Full Stack, utilizando principalmente Angular e Spring Boot para de criação app's SPA's que se comunicam com API's rest.</p>
 
 - ✨ Formado em ADS
 - ✍ Indie Hacker.
