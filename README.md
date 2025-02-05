@@ -30,15 +30,10 @@
 <!--Contact Section--> 
 
 <h2 align="center">🤝 Entre em contato 🤝 </h2>
-<div align="center">
-  <a href="https://www.linkedin.com/in/villy-rosa-475523213/" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="linkedin" style="margin-bottom: 5px;" />
-  </a>
-  
-  <a href="mailto:villyrosa@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;">
-  </a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/villy-rosa-475523213/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin bottom: 5px;" /></a>
+  <a href="mailto:villyrosa@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;"></a>
+</p>
 
 <!--Footer--> 
 <p align="center">
