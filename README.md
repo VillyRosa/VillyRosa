@@ -23,7 +23,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Linguagens e Ferramentas</h2> 
 <p align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=java,php,ts,js,spring,nodejs,angular,scss,postgres,mysql,mongo,git,docker,postman&perline=7" />
+  <img width="500px" src="https://skillicons.dev/icons?i=java,php,ts,js,spring,nodejs,angular,scss,tailwindcss,postgres,mysql,mongo,git,docker&perline=7" />
 </p>
 <br />
 
